@@ -1,0 +1,1 @@
+// Ternary expression is a shortcut to if {} and else{} statements.
