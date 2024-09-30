@@ -15,4 +15,4 @@ let output = isStudent ?"You're Student" :"You're not a student"
 
 let purchaseAmount=125;
 let discount=purchaseAmount>=100 ? 10 : 0
-console.log("Your total is"$ `${purchaseAmount -purchaseAmoun*(discount/100)}`.)
+console.log("Your total is $" `${purchaseAmount -purchaseAmoun*(discount/100)}`.)
