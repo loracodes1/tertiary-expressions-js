@@ -9,3 +9,6 @@ console.log(message)
 let time =16;
 let greeting=time < 12 ?'Good Morning' : 'Good Afternoon';
 console.log(greeting)
+
+let isStudent=true;
+let message = isStudent ?"You're Student" :"You're not a student"
